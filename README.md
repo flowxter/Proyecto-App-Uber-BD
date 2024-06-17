@@ -1,51 +1,114 @@
-Manual de Usuario - App uber
+<em> # Manual de Usuario - App uber</em>
 
-Índice
 
-Introducción
-Registro e Inicio de Sesión
-Solicitar un Viaje
-Seguimiento del Viaje
-Tecnologías Usadas
-Tests Técnicos
+<h4 align="center">
+ :whale2: Proyecto terminado  :whale2:
+</h4>
 
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/66388384/169884770-c7364478-2430-445f-97e1-b5c19e736c4f.png">
+   </p>
+
+## Table of Contents
+1. [<a href="#descripcion-del-codigo">Introducción</a>]
+2. [<a href="#paso-a-paso">Registro e inicio</a>]
+3. [<a href="#video">Solicitar un viaje</a>]
+4. [<a href="#seguimiento-viaje">Seguimiento del viaje</a>]
+5. [<a href="#integrantes">Integrantes</a>]
+<h4 align="center" id="descripcion-del-codigo">
+
+
+<hr>
+<h3>
+ Tecnologias usadas:
+
+![Texto Alternativo](https://github.com/LjuandalZPH/
+![Texto Alternativo](https://github.com/LjuandalZPH/
+
+
+</h3>
+
+ ---
 1. Introducción
-Bienvenido a App uber, una aplicación de transporte diseñada para brindarte una experiencia de viaje cómoda y segura. Este manual te guiará a través de todas las funcionalidades de la aplicación.
+</h4>
 
-2. Registro e Inicio de Sesión
-Registro
-Abre la aplicación y selecciona "Registrarse".
-Ingresa correo electrónico y una contraseña segura, repetirla en el campo de abajo para verificar.
-Toca "Crear cuenta" y verifica tu correo electrónico con el enlace enviado.
+<h5>
+   Bienvenido a App uber, una aplicación de transporte diseñada para brindarte una experiencia de viaje cómoda y segura. Este manual te guiará a través de todas las funcionalidades de la aplicación.
 
-Inicio de Sesión
-Abre la aplicación y selecciona "Iniciar Sesión".
-Ingresa tu correo electrónico y contraseña.
-Toca "Iniciar Sesión".
+</h5>
+<hr>
 
-4. Solicitar un Viaje
-En la pantalla principal, ingresa tu destino en el campo "¿A dónde vas?".
-Selecciona tu punto de partida si no es tu ubicación actual.
-Elige el tipo de servicio (Economy, Premium, etc.).
-Toca "Solicitar Viaje".
-Confirma los detalles del viaje y toca "Confirmar".
+<h4 align="center" id="paso-a-paso">
+2. Registro e inicio
 
-5. Seguimiento del Viaje
-Una vez solicitado el viaje, verás el mapa con la ubicación del conductor.
-Puedes ver el tiempo estimado de llegada y el recorrido en tiempo real.
-Recibirás notificaciones cuando el conductor esté cerca.
 
-6. Tecnologías Usadas
-Para el desarrollo de App uber, se han utilizado las siguientes tecnologías:
 
-Flutter: Framework de UI para la creación de aplicaciones móviles.
-Dart: Lenguaje de programación utilizado con Flutter.
-JavaScript: Utilizado para algunas integraciones web.
-HTML: Para componentes de la interfaz de usuario.
-Fire Store: Base de datos utilizada para almacenar y sincronizar datos en tiempo real.
-Google Cloud: Utilizado para las APIs de Google Maps y otros servicios en la nube.
 
-6. Tests Técnicos
-Para garantizar el correcto funcionamiento de la aplicación, se realizaron pruebas técnicas utilizando las siguientes herramientas:
+</h4>
 
-Android Studio: Empleado para simular la aplicación en diferentes dispositivos y escenarios. Esto permitió identificar y corregir errores antes de lanzar la aplicación.
+<h5>
+   <p>
+    Abre la aplicación y selecciona "Registrarse". Ingresa correo electrónico y una contraseña segura, repetirla en el campo de abajo para verificar. Toca "Crear cuenta" y verifica tu correo electrónico con el enlace enviado.
+
+    <p>
+    Inicio de Sesión Abre la aplicación y selecciona "Iniciar Sesión". Ingresa tu correo electrónico y contraseña. Toca "Iniciar Sesión".
+
+
+</h5>
+
+<hr>
+<h4 align="center" id="video"> 
+3. Solicitar un viaje
+</h4>
+
+<h5 align="center">
+  Ingresa tu destino en el campo "¿A dónde vas?". Selecciona tu punto de partida si no es tu ubicación actual. Elige el tipo de servicio (Economy, Premium, etc.). Toca "Solicitar Viaje". Confirma los detalles del viaje y toca "Confirmar".
+
+</h5>
+<hr>
+
+<h4 align="center" id="seguimiento-viaje">
+4. Seguimiento del viaje
+</h4>
+
+<h5>
+Una vez solicitado el viaje, verás el mapa con la ubicación del conductor. Puedes ver el tiempo estimado de llegada y el recorrido en tiempo real. Recibirás notificaciones cuando el conductor esté cerca.
+  
+</h5>
+
+<h4 align="center" id="integrantes"> 
+5. Integrantes
+</h4>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%"">
+Juan David Pinto Rodriguez
+ 2240440
+</td>
+<td width="33%">
+Juan Jose Mafla Pacheco
+2126990
+ 
+</td>
+<td width="33%">
+Jose Adrián Marín Ordoñez
+ 2126988
+</td>
+</tr>
+</table>
+</div>
+
+
+
+
+
+
+<p align="right">
+:trollface:
+</p>
+
+
+
