@@ -22,8 +22,13 @@
 <h3>
  Tecnologias utilizadas:
 
-![Texto Alternativo](https://github.com/flowxter/Proyecto-App-Uber-BD/blob/main/Images%20markdown/flutter.png?raw=true)
-![Texto Alternativo](https://github.com/LjuandalZPH/
+![Texto Alternativo](https://github.com/flowxter/Proyecto-App-Uber-BD/blob/main/flutter2.png?raw=true)
+![Texto Alternativo](https://github.com/flowxter/Proyecto-App-Uber-BD/blob/main/Images%20markdown/dart.png?raw=true)
+![Texto Alternativo](https://github.com/flowxter/Proyecto-App-Uber-BD/blob/main/Images%20markdown/google%20cloud.png?raw=true)
+![Texto Alternativo]([https://github.com/flowxter/Proyecto-App-Uber-BD/blob/main/flutter2.png?raw=true](https://github.com/flowxter/Proyecto-App-Uber-BD/blob/main/Images%20markdown/html.png?raw=true))
+![Texto Alternativo](https://github.com/flowxter/Proyecto-App-Uber-BD/blob/main/Images%20markdown/javascript.jpg?raw=true)
+
+
 
 
 </h3>
