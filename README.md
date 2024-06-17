@@ -22,7 +22,7 @@
 <h3>
  Tecnologias utilizadas:
 
-![Texto Alternativo](https://github.com/flowxter/Proyecto-App-Uber-BD/blob/main/flutter2.png?raw=true)
+![Texto Alternativo](https://github.com/flowxter/Proyecto-App-Uber-BD/blob/main/Images%20markdown/flutter2.png?raw=true)
 ![Texto Alternativo](https://github.com/flowxter/Proyecto-App-Uber-BD/blob/main/Images%20markdown/dart.png?raw=true)
 ![Texto Alternativo](https://github.com/flowxter/Proyecto-App-Uber-BD/blob/main/Images%20markdown/google%20cloud.png?raw=true)
 
@@ -98,6 +98,13 @@ Juan Jose Mafla Pacheco
 <td width="33%">
 Jose Adrián Marín Ordoñez
  2126988
+</td>
+</tr>
+
+<tr>
+<td width="33%">
+ Camilo Andrés Muñoz Muñoz 
+ 2042857
 </td>
 </tr>
 </table>
