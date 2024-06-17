@@ -22,7 +22,7 @@
 <h3>
  Tecnologias utilizadas:
 
-![Texto Alternativo]([https://github.com/LjuandalZPH/](https://github.com/flowxter/Proyecto-App-Uber-BD/blob/main/Images%20markdown/flutter.png?raw=true)
+![Texto Alternativo](https://github.com/flowxter/Proyecto-App-Uber-BD/blob/main/Images%20markdown/flutter.png?raw=true)
 ![Texto Alternativo](https://github.com/LjuandalZPH/
 
 
