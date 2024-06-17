@@ -1,0 +1,1 @@
+ C:\\Users\\jjmaf\\Downloads\\app_rider\ (5)\\app_rider\\.dart_tool\\flutter_build\\26cf5267a218447eb3a0ee504891cc0a\\native_assets.yaml: 

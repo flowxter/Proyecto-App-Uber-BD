@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">692453238876</string>
+    <string name="google_api_key" translatable="false">AIzaSyAMGzYF5tUaHQLVMJwC8ooRHE8mC9CZGog</string>
+    <string name="google_app_id" translatable="false">1:692453238876:android:2501a4a611888a3bdede99</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAMGzYF5tUaHQLVMJwC8ooRHE8mC9CZGog</string>
+    <string name="google_storage_bucket" translatable="false">appuber-c5379.appspot.com</string>
+    <string name="project_id" translatable="false">appuber-c5379</string>
+</resources>

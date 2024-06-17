@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692453238876",
+    "project_id": "appuber-c5379",
+    "storage_bucket": "appuber-c5379.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692453238876:android:2501a4a611888a3bdede99",
+        "android_client_info": {
+          "package_name": "com.mycompany.apprider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMGzYF5tUaHQLVMJwC8ooRHE8mC9CZGog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
