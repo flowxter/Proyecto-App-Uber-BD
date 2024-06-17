@@ -20,9 +20,9 @@
 
 <hr>
 <h3>
- Tecnologias usadas:
+ Tecnologias utilizadas:
 
-![Texto Alternativo](https://github.com/LjuandalZPH/
+![Texto Alternativo]([https://github.com/LjuandalZPH/](https://github.com/flowxter/Proyecto-App-Uber-BD/blob/main/Images%20markdown/dart.png)
 ![Texto Alternativo](https://github.com/LjuandalZPH/
 
 
