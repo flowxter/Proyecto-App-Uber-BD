@@ -36,7 +36,7 @@
 
  ---
 1. Introducción
-</h4>
+</h3>
 
 <h4>
    Bienvenido a App uber, una aplicación de transporte diseñada para brindarte una experiencia de viaje cómoda y segura. Este manual te guiará a través de todas las funcionalidades de la aplicación.
@@ -44,45 +44,43 @@
 </h4>
 <hr>
 
-<h4 align="center" id="paso-a-paso">
+<h3align="center" id="paso-a-paso">
 2. Registro e inicio
 
 
+</h3>
 
-
-</h4>
-
-<h5>
+<h4>
    <p>
     Abre la aplicación y selecciona "Registrarse". Ingresa correo electrónico y una contraseña segura, repetirla en el campo de abajo para verificar. Toca "Crear cuenta" y verifica tu correo electrónico con el enlace enviado.
     Inicio de Sesión Abre la aplicación y selecciona "Iniciar Sesión". Ingresa tu correo electrónico y contraseña. Toca "Iniciar Sesión".
 
 
-</h5>
-
-<hr>
-<h4 align="center" id="video"> 
-3. Solicitar un viaje
 </h4>
 
-<h5 align="center">
+<hr>
+<h3 align="center" id="video"> 
+3. Solicitar un viaje
+</h3>
+
+<h4 align="center">
   Ingresa tu destino en el campo "¿A dónde vas?". Selecciona tu punto de partida si no es tu ubicación actual. Elige el tipo de servicio (Economy, Premium, etc.). Toca "Solicitar Viaje". Confirma los detalles del viaje y toca "Confirmar".
 
-</h5>
+</h4>
 <hr>
 
-<h4 align="center" id="seguimiento-viaje">
+<h3 align="center" id="seguimiento-viaje">
 4. Seguimiento del viaje
-</h4>
+</h3>
 
-<h5>
+<h4>
 Una vez solicitado el viaje, verás el mapa con la ubicación del conductor. Puedes ver el tiempo estimado de llegada y el recorrido en tiempo real. Recibirás notificaciones cuando el conductor esté cerca.
   
-</h5>
-
-<h4 align="center" id="integrantes"> 
-5. Integrantes
 </h4>
+
+<h3 align="center" id="integrantes"> 
+5. Integrantes
+</h3>
 
 <div align="center">
 
