@@ -38,10 +38,10 @@
 1. Introducción
 </h4>
 
-<h5>
+<h4>
    Bienvenido a App uber, una aplicación de transporte diseñada para brindarte una experiencia de viaje cómoda y segura. Este manual te guiará a través de todas las funcionalidades de la aplicación.
 
-</h5>
+</h4>
 <hr>
 
 <h4 align="center" id="paso-a-paso">
