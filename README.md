@@ -44,7 +44,7 @@
 </h4>
 <hr>
 
-<h3align="center" id="paso-a-paso">
+<h3 align="center" id="paso-a-paso">
 2. Registro e inicio
 
 
