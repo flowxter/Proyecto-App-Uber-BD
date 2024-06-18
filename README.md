@@ -6,7 +6,7 @@
 </h4>
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/66388384/169884770-c7364478-2430-445f-97e1-b5c19e736c4f.png">
+   <img src=https://github.com/flowxter/Proyecto-App-Uber-BD/blob/main/Images%20markdown/logo_app_uber-removebg-preview.png?raw=true>
    </p>
 
 ## Table of Contents
@@ -56,6 +56,7 @@
     Abre la aplicación y selecciona "Registrarse". Ingresa correo electrónico y una contraseña segura, repetirla en el campo de abajo para verificar. Toca "Crear cuenta" y verifica tu correo electrónico con el enlace enviado.
     Inicio de Sesión Abre la aplicación y selecciona "Iniciar Sesión". Ingresa tu correo electrónico y contraseña. Toca "Iniciar Sesión".
 
+![Texto Alternativo](https://github.com/flowxter/Proyecto-App-Uber-BD/blob/main/Images%20markdown/login.jpg?raw=true)
 
 </h4>
 
@@ -67,6 +68,7 @@
 <h4 align="center">
   Ingresa tu destino en el campo "¿A dónde vas?". Selecciona tu punto de partida si no es tu ubicación actual. Elige el tipo de servicio (Economy, Premium, etc.). Toca "Solicitar Viaje". Confirma los detalles del viaje y toca "Confirmar".
 
+![Texto Alternativo](![Texto Alternativo](https://github.com/flowxter/Proyecto-App-Uber-BD/blob/main/Images%20markdown/login.jpg?raw=true))
 </h4>
 <hr>
 
@@ -76,6 +78,7 @@
 
 <h4>
 Una vez solicitado el viaje, verás el mapa con la ubicación del conductor. Puedes ver el tiempo estimado de llegada y el recorrido en tiempo real. Recibirás notificaciones cuando el conductor esté cerca.
+
   
 </h4>
 
