@@ -43,7 +43,6 @@
    Bienvenido a App uber, una aplicación de transporte diseñada para brindarte una experiencia de viaje cómoda y segura. Este manual te guiará a través de todas las funcionalidades de la aplicación.
 
 </h4>
-<hr>
 
 <h3 align="center" id="paso-a-paso">
 2. Registro e inicio
@@ -53,10 +52,11 @@
     Abre la aplicación y selecciona "Registrarse". Ingresa correo electrónico y una contraseña segura, repetirla en el campo de abajo para verificar. Toca "Crear cuenta" y verifica tu correo electrónico con el enlace enviado.
     Inicio de Sesión Abre la aplicación y selecciona "Iniciar Sesión". Ingresa tu correo electrónico y contraseña. Toca "Iniciar Sesión".
 <hr>
-<div style="text-align: center;">
+<p align="center">
     <img src="https://github.com/flowxter/Proyecto-App-Uber-BD/blob/main/Images%20markdown/login.jpg?raw=true" alt="Texto Alternativo">
-</div>
+</p>
 </h4>
+
 
 
 <hr>
