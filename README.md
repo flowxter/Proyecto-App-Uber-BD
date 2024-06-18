@@ -47,18 +47,15 @@
 
 <h3 align="center" id="paso-a-paso">
 2. Registro e inicio
-
-
 </h3>
 
 <h4>
-   <p>
     Abre la aplicación y selecciona "Registrarse". Ingresa correo electrónico y una contraseña segura, repetirla en el campo de abajo para verificar. Toca "Crear cuenta" y verifica tu correo electrónico con el enlace enviado.
     Inicio de Sesión Abre la aplicación y selecciona "Iniciar Sesión". Ingresa tu correo electrónico y contraseña. Toca "Iniciar Sesión".
 
-
-</h4>
 ![Texto Alternativo](https://github.com/flowxter/Proyecto-App-Uber-BD/blob/main/Images%20markdown/login.jpg?raw=true)
+</h4>
+
 
 <hr>
 <h3 align="center" id="video"> 
