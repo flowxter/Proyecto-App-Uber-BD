@@ -54,7 +54,7 @@
     Inicio de Sesión Abre la aplicación y selecciona "Iniciar Sesión". Ingresa tu correo electrónico y contraseña. Toca "Iniciar Sesión".
 <hr>
    ![Texto Alternativo](https://github.com/flowxter/Proyecto-App-Uber-BD/blob/main/Images%20markdown/login.jpg?raw=true)
- <hr>
+ </hr>
 </h4>
 
 
