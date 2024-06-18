@@ -78,6 +78,7 @@
 
 <h4>
 Una vez solicitado el viaje, verás el mapa con la ubicación del conductor. Puedes ver el tiempo estimado de llegada y el recorrido en tiempo real. Recibirás notificaciones cuando el conductor esté cerca.
+ 
 ![Texto Alternativo](https://github.com/flowxter/Proyecto-App-Uber-BD/blob/main/Images%20markdown/carreraencurso.jpg?raw=true)
   
 </h4>
