@@ -65,7 +65,7 @@
 <h4 align="center">
   Ingresa tu destino en el campo "¿A dónde vas?". Selecciona tu punto de partida si no es tu ubicación actual. Elige el tipo de servicio (Economy, Premium, etc.). Toca "Solicitar Viaje". Confirma los detalles del viaje y toca "Confirmar".
 
-![Texto Alternativo](![Texto Alternativo](https://github.com/flowxter/Proyecto-App-Uber-BD/blob/main/Images%20markdown/login.jpg?raw=true)
+![Texto Alternativo](https://github.com/flowxter/Proyecto-App-Uber-BD/blob/main/Images%20markdown/login.jpg?raw=true)
 </h4>
 <hr>
 
