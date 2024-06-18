@@ -88,6 +88,7 @@
 
 
 <h3 align="center" id="integrantes"> 
+ <hr>
 5. Integrantes
 </h3>
 
