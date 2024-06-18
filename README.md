@@ -69,6 +69,7 @@
 
 ![Texto Alternativo](https://github.com/flowxter/Proyecto-App-Uber-BD/blob/main/Images%20markdown/login.jpg?raw=true)
 </h4>
+
 <hr>
 
 <h3 align="center" id="seguimiento-viaje">
